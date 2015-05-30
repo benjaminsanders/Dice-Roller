@@ -1,0 +1,79 @@
+
+
+.dice {
+    background-image: url(dice.png);
+    background-repeat: no-repeat;
+    display:block;
+}
+
+.dice-dieRed_border1 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -2px;
+}
+
+.dice-dieRed_border2 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -74px;
+}
+
+.dice-dieRed_border3 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -146px;
+}
+
+.dice-dieRed_border4 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -218px;
+}
+
+.dice-dieRed_border5 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -290px;
+}
+
+.dice-dieRed_border6 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -362px;
+}
+
+.dice-dieWhite_border1 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -434px;
+}
+
+.dice-dieWhite_border2 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -506px;
+}
+
+.dice-dieWhite_border3 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -578px;
+}
+
+.dice-dieWhite_border4 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -650px;
+}
+
+.dice-dieWhite_border5 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -722px;
+}
+
+.dice-dieWhite_border6 {
+    width: 68px;
+    height: 68px;
+    background-position: -2px -794px;
+}
